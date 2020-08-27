@@ -1,8 +1,8 @@
-lum-sdk.io
-luminatinet.com
-h-vpn.org
-svd-cdn.com
-luminati.io
-lumtest.com
-hola.org
-s-microsoft.com
+0.0.0.0 lum-sdk.io
+0.0.0.0 luminatinet.com
+0.0.0.0 h-vpn.org
+0.0.0.0 svd-cdn.com
+0.0.0.0 luminati.io
+0.0.0.0 lumtest.com
+0.0.0.0 hola.org
+0.0.0.0 s-microsoft.com
